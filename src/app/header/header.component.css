@@ -1,0 +1,12 @@
+nav{
+  background-color: #9D91B8;
+  margin-bottom: 20px;
+}
+nav ul{
+  list-style-type: none;
+}
+nav li a{
+  color: #fff;
+  font-size: 14px;
+  text-decoration: none;
+}
